@@ -65,6 +65,7 @@
     <Compile Include="Integracao\MateriaPrimaIntegrationTest.cs" />
     <Compile Include="Integracao\FornecedorIntegrationTest.cs" />
     <Compile Include="Negocio\CompraNegocioUnitTest.cs" />
+    <Compile Include="Negocio\FornecedorNegocioUnitTest.cs" />
     <Compile Include="Negocio\MateriaPrimaNegocioUnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
